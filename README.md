@@ -36,7 +36,7 @@ My primary research focuses on **challenging 3D & 4D reconstruction based on 3D 
 - **4D Gaussian LOD control**
 - **Reconstruction under low video memory**
 
-Recently, inspired by someone special  who loves gaming, I started paying closer attention to how differences in device-level graphics capability, such as between PCs and mobile platforms, can affect rendering quality. This naturally led me to an interest in **Level-of-Detail (LoD) control** for dynamic digital human scene reconstruction.
+Recently, inspired by someone special 🍊  who loves gaming, I started paying closer attention to how differences in device-level graphics capability, such as between PCs and mobile platforms, can affect rendering quality. This naturally led me to an interest in **Level-of-Detail (LoD) control** for dynamic digital human scene reconstruction.
 At the same time, I am also interested in **Computational Photography**, **Multi-Agent Systems**, and **Zero-Knowledge Proofs**, and I am actively exploring **AI for Research** and **AI for Engineering**.
 
 
@@ -107,5 +107,5 @@ Since my undergraduate years, I have actively participated in **mathematical mod
 ---
 
 <p align="center">
-  Thanks for visiting my profile ✨
+  🍊 Thanks for visiting my profile ✨
 </p>
