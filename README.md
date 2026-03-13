@@ -26,38 +26,29 @@
 
 ## 👨‍💻 About Me
 
-I am **Haoyu Zhao**, currently studying at the  
-**China University of Petroleum (East China)**,  
-in the **School of Computer Science and Technology**,  
-where I work with the **Machine Intelligence Group** under the supervision of **Prof. Wenjuan Gong**.
+I am **Haoyu Zhao**, currently studying at the  **China University of Petroleum (East China)**,  in the **School of Computer Science and Technology**,  where I work with the **Machine Intelligence Group** under the supervision of **Prof. Wenjuan Gong**.
 
 My primary research focuses on **challenging 3D & 4D reconstruction based on 3D Gaussian Splatting**, especially under conditions such as:
 
 - **HDR scenes**
 - **Sparse-view reconstruction**
-- **Occlusion-heavy environments**
 - **Dynamic human and scene reconstruction**
+- **4D Gaussian LOD control**
+- **Reconstruction under low video memory**
 
-Recently, I have been exploring **Level-of-Detail (LoD) control** in dynamic digital human scene reconstruction.  
-This interest comes from a practical observation: rendering quality is often constrained by the computational budget of different devices, such as **PCs and mobile platforms**, whose graphics capabilities vary significantly.
-
+Recently, inspired by someone special  who loves gaming, I started paying closer attention to how differences in device-level graphics capability, such as between PCs and mobile platforms, can affect rendering quality. This naturally led me to an interest in **Level-of-Detail (LoD) control** for dynamic digital human scene reconstruction.
 At the same time, I am also interested in **Computational Photography**, **Multi-Agent Systems**, and **Zero-Knowledge Proofs**, and I am actively exploring **AI for Research** and **AI for Engineering**.
+
+
 
 ---
 
-## 🔬 Research Interests
+## 🌱 Looking Ahead
 
-<p>
-  <img src="https://img.shields.io/badge/3D_Gaussian_Splatting-FF6F61?style=flat-square" />
-  <img src="https://img.shields.io/badge/3D%2F4D_Reconstruction-4CAF50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dynamic_Scene_Reconstruction-2196F3?style=flat-square" />
-  <img src="https://img.shields.io/badge/LoD_Control-9C27B0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computational_Photography-FF9800?style=flat-square" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-795548?style=flat-square" />
-  <img src="https://img.shields.io/badge/Zero--Knowledge_Proofs-607D8B?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_for_Research-00897B?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_for_Engineering-1565C0?style=flat-square" />
-</p>
+> I am seeking **PhD opportunities for 2027** in **AI** or **interdisciplinary research areas**.  
+> If you know of relevant opportunities, feel free to reach out.
+
+
 
 ---
 
@@ -76,23 +67,9 @@ At the same time, I am also interested in **Computational Photography**, **Multi
 
 ## 🏆 Highlight
 
-Since my undergraduate years, I have actively participated in **mathematical modeling competitions**.
-
-In the **2025 22nd Huawei Cup Graduate Mathematical Contest in Modeling**,  
-I worked on **Problem A: Intra-kernel Scheduling under a General Neural Network Processor**,  
-and achieved **7th place**, receiving the **Huawei Special Award (Second Prize)**.
+Since my undergraduate years, I have actively participated in **mathematical modeling competitions**.In the **2025 22nd Huawei Cup Graduate Mathematical Contest in Modeling**,  I worked on **Problem A: Intra-kernel Scheduling under a General Neural Network Processor**,  and achieved **7th place**, receiving the **Huawei Special Award (Second Prize)**.
 
 🔗 Project: [MathModel](https://github.com/HaoyuZhao31415/MathModel)
-
----
-
-## 🚀 Current Focus
-
-- Robust **3DGS-based reconstruction** in challenging real-world scenarios
-- **LoD-aware rendering and reconstruction** for dynamic digital humans
-- Efficient adaptation across **heterogeneous devices**
-- Exploring **AI for Research** and **AI for Engineering**
-- Interdisciplinary ideas spanning **vision, intelligent systems, and cryptographic methods**
 
 ---
 
@@ -103,9 +80,6 @@ and achieved **7th place**, receiving the **Huawei Special Award (Second Prize)*
 
 - [**MathModel**](https://github.com/HaoyuZhao31415/MathModel)  
   Huawei Cup Graduate Mathematical Contest in Modeling project
-
-- [**academic-kickstart**](https://github.com/HaoyuZhao31415/academic-kickstart)  
-  Academic writing / research workflow related materials
 
 ---
 
@@ -120,12 +94,6 @@ and achieved **7th place**, receiving the **Huawei Special Award (Second Prize)*
   <img src="https://streak-stats.demolab.com?user=HaoyuZhao31415&theme=transparent&hide_border=true" />
 </p>
 
----
-
-## 🌱 Looking Ahead
-
-> I am seeking **PhD opportunities for 2027** in **AI** or **interdisciplinary research areas**.  
-> If you know of relevant opportunities, feel free to reach out.
 
 ---
 
